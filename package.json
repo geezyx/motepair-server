@@ -10,6 +10,7 @@
     "inherits": "2.0.1",
     "livedb": "0.4.11",
     "livedb-mongo": "0.4.1",
+    "mongodb": "^1.4.40",
     "newrelic": "~1.15.1",
     "share": "0.7.3",
     "ws": "0.6.4",
