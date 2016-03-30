@@ -12,4 +12,4 @@ RUN npm install
 COPY . /usr/src/motepair-server
 
 # Start server
-CMD [ "npm", "start.js" ]
+CMD [ "node", "start.js" ]
